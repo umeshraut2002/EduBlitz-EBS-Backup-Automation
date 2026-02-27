@@ -1,7 +1,7 @@
 import boto3
 
 # Replace with your EBS volume ID (e.g., vol-0123456789abcdef0)
-VOLUME_ID = "REPLACE_WITH_VOLUME_ID"
+VOLUME_ID = "vol-09da1deb365bf34e6"
 
 
 def lambda_handler(event, context):

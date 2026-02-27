@@ -1,7 +1,7 @@
 // IMPORTANT: Use your API Gateway URL here, NOT your CloudFront URL.
 // - API Gateway URL looks like: https://abc123xyz.execute-api.us-east-1.amazonaws.com
 // - CloudFront URL looks like: https://d1234abcd.cloudfront.net  (do NOT use this for the button)
-const API_GATEWAY_URL = 'https://zkch6dfwde.execute-api.eu-west-1.amazonaws.com';
+const API_GATEWAY_URL = 'https://nwwl98fglh.execute-api.us-east-1.amazonaws.com';
 
 function getStatusEl() {
     return document.getElementById('statusMessage');
